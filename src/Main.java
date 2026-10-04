@@ -6,9 +6,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        //esto es un ejemplo_2
-
-
         Scanner teclado = new Scanner(System.in);
 /*
         //variables
@@ -520,7 +517,6 @@ Laura leía la lista.
 Ayuda ahora a Andalucía.
 
 
-//esto es un ejemplo
 
 
        String frase = "";
